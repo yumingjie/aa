@@ -8,6 +8,7 @@
     <option name="originalFiles">
       <list>
         <option value="$USER_HOME$/guess-number-test/java/maven/pom.xml" />
+        <option value="$USER_HOME$/GuessNumberManve/pom.xml" />
       </list>
     </option>
   </component>

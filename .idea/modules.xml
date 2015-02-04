@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GuessNumber.iml" filepath="$PROJECT_DIR$/GuessNumber.iml" />
+      <module fileurl="file://$USER_HOME$/GuessNumberManve/GuessNumberManve.iml" filepath="$USER_HOME$/GuessNumberManve/GuessNumberManve.iml" />
       <module fileurl="file://$USER_HOME$/guess-number-test/java/maven/ut-workshop1.iml" filepath="$USER_HOME$/guess-number-test/java/maven/ut-workshop1.iml" />
     </modules>
   </component>
